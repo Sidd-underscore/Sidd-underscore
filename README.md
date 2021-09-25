@@ -6,16 +6,6 @@
 
 My name is Sidd_!
 
-```js
-const aboutMe = {
-  'workingOn': 'idk',
-  'learning': '???',
-  'contactMe': 'therealhackermon@gmail.com',
-  'pronouns': ['he', 'him']
-}
-
-```
-
 
 - 🔭 I’m currently working on [Rooms](https://rooms.glitch.me)
 - 🌱 I’m currently learning anything coding
@@ -25,7 +15,7 @@ const aboutMe = {
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uh-sid)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uh-sid&theme=radical)
 
 
 ### Fun Fact
