@@ -11,6 +11,7 @@ My name is Sidd_!
 - 🌱 I’m currently learning anything coding
 - 📫 How to reach me: email me `sdmdevelopment3@gmail.com` or discord me (`Sidd_#4553`)
 - 😄 Pronouns: He, Him
+- 💻 Online @[sidd.is-a.dev](https://sidd.is-a.dev)
 
 
 ### Stats
@@ -21,3 +22,7 @@ My name is Sidd_!
 ### Fun Fact
 
 I always have a lot of good ideas but not the time to execute them!
+
+### My socials
+
+Discord: `@Sidd_#4553`, or click [here](discord.com/users/755917085879697489)
