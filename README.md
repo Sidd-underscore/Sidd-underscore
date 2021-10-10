@@ -25,4 +25,4 @@ I always have a lot of good ideas but not the time to execute them!
 
 ### My socials
 
-Discord: `@Sidd_#4553`, or click [here](discord.com/users/755917085879697489)
+Discord: `@Sidd_#4553`, or click [here](https://discord.com/users/755917085879697489)
