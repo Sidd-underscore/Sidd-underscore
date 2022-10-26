@@ -18,7 +18,7 @@ My name is Sidd_!
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-uderscore&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-underscore&theme=radical)
             
 
 
