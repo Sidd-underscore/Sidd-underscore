@@ -12,7 +12,7 @@ My name is Sidd_!
 - 🔭 I’m currently working on [Rooms](https://roomss.cool-sidd.repl.co)
 - 🌱 I’m currently learning anything coding
 - 📫 How to reach me: email me `sdmdevelopment3@gmail.com` or discord me (`Sidd_#4553`)
-- 😄 Pronouns: He, Him
+- 😄 Pronouns: She/Her/Hers (#trans)
 - 💻 Online @[sidd.is-a.dev](https://sidd.is-a.dev)
 
 
