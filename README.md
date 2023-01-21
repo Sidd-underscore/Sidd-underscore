@@ -28,12 +28,14 @@ Discord: `@Sidd_#4553`, or click [here](https://discord.com/users/75591708587969
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
-
+[![Nextjs](https://img.shields.io/badge/Next.js%20-%23000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.com)
+[![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)](https://react.com)
 
 ### OS and Cloud Services
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
-And things like a terminal :D
+
+And things like a terminal, ofc
 
 ### Browsers and IDE
 [![Opera GX](https://img.shields.io/badge/Opera%20-%23FF1B2D.svg?&style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com/)
@@ -41,7 +43,6 @@ And things like a terminal :D
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
-[![Nextjs](https://img.shields.io/badge/Next.js%20-%23000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.com)
-[![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)](https://react.com)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
