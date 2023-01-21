@@ -36,7 +36,7 @@ Discord: `@Sidd_#4553`, or click [here](https://discord.com/users/75591708587969
 And things like a terminal :D
 
 ### Browsers and IDE
-[![Opera GX](https://img.shields.io/badge/Opera%20-%23FF1B2D.svg?&style=for-the-badge&logo=Opera&logoColor=red)](https://opera.com/)
+[![Opera GX](https://img.shields.io/badge/Opera%20-%23FF1B2D.svg?&style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com/)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
