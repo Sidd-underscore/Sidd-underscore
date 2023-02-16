@@ -45,7 +45,7 @@ And things like a terminal, ofc
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -109,5 +109,5 @@ Python                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 15/02/2023 22:40:17 UTC
+ Last Updated on 16/02/2023 22:37:45 UTC
 <!--END_SECTION:waka-->
