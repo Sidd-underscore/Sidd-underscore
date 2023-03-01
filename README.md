@@ -49,7 +49,7 @@ And things like a terminal, ofc
 
 **🐱 My GitHub Data** 
 
-> 📦 480.1 kB Used in GitHub's Storage 
+> 📦 480.0 kB Used in GitHub's Storage 
  > 
 > 🏆 132 Contributions in the Year 2023
  > 
@@ -106,5 +106,5 @@ HTML                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 28/02/2023 22:38:41 UTC
+ Last Updated on 01/03/2023 22:38:15 UTC
 <!--END_SECTION:waka-->
