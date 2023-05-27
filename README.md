@@ -1,26 +1,19 @@
-![](https://komarev.com/ghpvc/?username=uh-sid&color=grey)
+Hi 👋 My name is Sidd\_
+=======================
 
-[sidd.is-a.dev](https://sidd.is-a.dev)
-
-# Hi there 👋
-
-### My name is Sidd_!
+Web developper, designer, React and Nextjs specialist and professional idiot
+----------------------------------------------------------------------------
 
 
-- 🔭 I’m currently working on [Rooms](https://roomss.cool-sidd.repl.co)
-- 🌱 I’m currently learning Nextjs and React
-- 📫 Email me `sdmdevelopment3@gmail.com` or discord me `Sidd_#4553`
-- 😄 Pronouns: she/her/hers (#trans)
-- 💻 Online @[sidd.is-a.dev](https://sidd.is-a.dev)
+Helloo! I've been coding for around 5 years now, on VSCode and Replit. I primarily code in JSX but have knowledge in TSX, JS, PY, HTML and CSS. I love TailwindCSS and was part of the first cohort Replit Reps (https://replit-reps.replit-community.repl.co/) program!
 
-
-### Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-underscore&theme=radical)
-
-### My socials
-
-Discord: `@Sidd_#4553`, or click [here](https://discord.com/users/755917085879697489)
+*   🌍  I'm based in Portland, OR
+*   🖥️  See my portfolio at [sidd.is-a.dev](http://sidd.is-a.dev)
+*   ✉️  You can contact me at [sdmdevelopment3@gmail.com](mailto:sdmdevelopment3@gmail.com)
+*   🚀  I'm currently working on [Roomss](http://roomss.tk)
+*   🧠  I'm learning how to use AI to make a custom virtual assistant
+*   🤝  I'm open to collaborating on anything Nextjs/React!
+*   ⚡  I don't live in my mom's bassement! (I'm 13)
 
 ### Frameworks and Languages
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
@@ -34,8 +27,6 @@ Discord: `@Sidd_#4553`, or click [here](https://discord.com/users/75591708587969
 ### OS and Cloud Services
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
-
-And things like a terminal, ofc
 
 ### Browsers and IDE
 [![Opera GX](https://img.shields.io/badge/Opera%20-%23FF1B2D.svg?&style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com/)
