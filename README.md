@@ -13,7 +13,7 @@ Helloo! I've been coding for around 5 years now, on VSCode and Replit. I primari
 *   🚀  I'm currently working on [Roomss](http://roomss.tk)
 *   🧠  I'm learning how to use AI to make a custom virtual assistant
 *   🤝  I'm open to collaborating on anything Nextjs/React!
-*   ⚡  I don't live in my mom's bassement! (I'm 13)
+*   ⚡  I don't live in my mom's bassement! (I'm 14)
 
 ### Frameworks and Languages
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
