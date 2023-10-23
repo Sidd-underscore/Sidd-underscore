@@ -27,8 +27,10 @@ Helloo! I've been coding for around 5 years now, on VSCode and Replit. I primari
 ### OS and Cloud Services
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
+[![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)](https://microsoft.com/windows)
 
 ### Browsers and IDE
+[![Google Chrome](https://img.shields.io/badge/Chrome%20-%23FF1B2D.svg?&style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://chrome.google.com/)
 [![Opera GX](https://img.shields.io/badge/Opera%20-%23FF1B2D.svg?&style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com/)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
