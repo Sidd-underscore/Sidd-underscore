@@ -48,9 +48,9 @@ Helloo! I've been coding for around 5 years now, on VSCode and Replit. I primari
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 20 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -86,5 +86,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2024 22:38:20 UTC
+ Last Updated on 26/02/2024 22:38:06 UTC
 <!--END_SECTION:waka-->
