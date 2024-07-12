@@ -44,8 +44,6 @@ Helloo! I've been coding for around 5 years now, on VSCode and Replit. I primari
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 348 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -86,5 +84,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2024 22:36:20 UTC
+ Last Updated on 12/07/2024 22:36:54 UTC
 <!--END_SECTION:waka-->
