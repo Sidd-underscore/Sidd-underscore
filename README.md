@@ -8,9 +8,9 @@ Web developper, designer, React and Nextjs specialist and professional idiot
 Helloo! I've been coding for around 6 years now, on VSCode and Replit. I primarily code in JSX but have knowledge in TSX, JS, PY, HTML and CSS. I love TailwindCSS and was part of the first cohort Replit Reps (https://replit-reps.replit-community.repl.co/) program!
 
 *   🌍  I'm based in Portland, OR
-*   🖥️  See my portfolio at [sidd-web.vercel.app](sidd-web.vercel.app)
+*   🖥️  See my portfolio at [sidd-web.vercel.app](https://sidd-web.vercel.app)
 *   ✉️  You can contact me at [sdmdevelopment3@gmail.com](mailto:sdmdevelopment3@gmail.com)
-*   🚀  I'm currently working on my personal website ([sidd-web.vercel.app](sidd-web.vercel.app))
+*   🚀  I'm currently working on my personal website ([sidd-web.vercel.app](https://sidd-web.vercel.app))
 *   🧠  I'm learning how to use AI to make a custom virtual assistant
 *   🤝  I'm open to collaborating on anything Nextjs/React!
 
