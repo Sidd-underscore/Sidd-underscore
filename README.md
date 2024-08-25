@@ -7,7 +7,7 @@
 Web developper, designer, Nextjs specialist, and professional idiot
 </pre>
 
-<pre>Helloo! I've been coding for around 6 years now. I primarily code in JSX but have knowledge in TSX, JS, PY, HTML and CSS. I love TailwindCSS and was part of the first cohort Replit Reps (https://replit-reps.replit-community.repl.co/) program! Learn more about my coding: [sidd.studio/coding](https://sidd.studio/coding)</pre>
+<code>Helloo! I've been coding for around 6 years now. I primarily code in JSX but have knowledge in TSX, JS, PY, HTML and CSS. I love TailwindCSS and was part of the first cohort Replit Reps (https://replit-reps.replit-community.repl.co/) program! Learn more about my coding: [sidd.studio/coding](https://sidd.studio/coding)</code>
 
 * <code>See my portfolio at [sidd.studio](https://sidd.studio)</code>
 * <code>You can contact me at [hello@sidd.studio](hello@sidd.studio)</code>
