@@ -4,7 +4,7 @@
 ![Sidd wordmark](https://sidd.studio/opengraph-image.png)
 
 <pre>
-Web developper, designer, Nextjs specialist, and professional idiot
+Web developer, designer, Nextjs specialist, and professional idiot.
 </pre>
 
 <code>Helloo! I've been coding for around 6 years now. I primarily code in JSX but have knowledge in TSX, JS, PY, HTML and CSS. I love TailwindCSS and was part of the first cohort Replit Reps (https://replit-reps.replit-community.repl.co/) program! Learn more about my coding: [sidd.studio/coding](https://sidd.studio/coding)</code>
